@@ -14,7 +14,6 @@ import org.apache.http.impl.client.HttpClientBuilder;
 // exec:java -Dexec.mainClass="com.rs.clients.CallClientRest"
 public class CallClientRest {
 /**
- * 
  * http://localhost:8081/hystrix-dashboard-1.4.9/
  * http://localhost:8081/WebClient-1.0/hystrix.stream
  * @param args
